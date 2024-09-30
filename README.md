@@ -4,6 +4,6 @@
 <pre>
     ./check 172.16.11
     OR
-    ./check 172.16.11 <OUTPUT FILE>
+    ./check 172.16.11 OUTPUT-FILE
 </pre>
 
